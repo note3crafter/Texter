@@ -51,6 +51,7 @@ class Lang {
     "en_us",
     "ja_jp",
     "ru_ru",
+    "ger_de",
   ];
 
   public function __construct(Core $core) {
